@@ -14,5 +14,5 @@
 #### 9. Hitting 'Deal' will restart the game.
 
 ###### Image of the game:
-![Blackjack Image](/BJ/images/bj-3.png)
+![Blackjack Image](/BJ/images/bj-4.png)
 
