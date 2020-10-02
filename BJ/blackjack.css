@@ -11,7 +11,6 @@
     flex-wrap: wrap;
 }
 
-/*Challenge 1*/
 .flex-box-container-1 div{
     display: flex;
     padding: 10px;
@@ -19,13 +18,11 @@
     align-items: center;
 }
 
-/*Challenge 2*/
 .flex-box-container-2 img{
     margin: 10px;
     box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.7);
 }
 
-/*Challenge 3*/
 .flex-box-rps img{
     margin: 10px;
 }
@@ -34,7 +31,6 @@
     box-shadow:0px 10px 50px rgba(37, 50, 233, 1);
 }
 
-/*Challenge 5*/
 .container-5{
     margin: 0 auto;
     text-align: center;
